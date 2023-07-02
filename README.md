@@ -6,7 +6,9 @@
 </div>
 
 ## 블로그 주소
-> **김스시의 투자일기** : [https://kimsushi.kr]
+> **위닝스시(투자 전략, 아이디어) ** : [https://blog.naver.com/shkim9808]
+> **김스시(코드 설명관련) ** : [https://kimsushi.kr]
+
 <br>
 
 ## 소개
