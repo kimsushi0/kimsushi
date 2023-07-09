@@ -6,7 +6,7 @@
 </div>
 
 ## 블로그 주소
-> **위닝스시(투자 전략, 아이디어) ** : [https://blog.naver.com/shkim9808]
+> **위닝스시(투자 전략, 투자 아이디어) ** : [https://blog.naver.com/shkim9808]
 > **김스시(코드 설명관련) ** : [https://kimsushi.kr]
 
 <br>
@@ -30,8 +30,10 @@ pip install -r requirements.txt
 ```bash
 ├── README.md
 ├── requirements.txt
-├──beta : 개별종목의 베타측정
+├──beta : 개별종목의 베타측정 예제
     └── beta.ipynb
+├──backtest : 개별종목의 백테스트 예제(매월 적립식 예제)
+└── backtest.ipynb
 └── risk_parity : 리스크패리티 전략 예제
     └── risk_parity_portfolio.ipynb
 ```
