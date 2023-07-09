@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ├──beta : 개별종목의 베타측정 예제
     └── beta.ipynb
 ├──backtest : 개별종목의 백테스트 예제(매월 적립식 예제)
-└── backtest.ipynb
+    └── backtest.ipynb
 └── risk_parity : 리스크패리티 전략 예제
     └── risk_parity_portfolio.ipynb
 ```
